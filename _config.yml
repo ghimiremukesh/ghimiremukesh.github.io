@@ -24,7 +24,7 @@ description: An avid engineer trying to learn something new everyday! yay!
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Resources:
+  Projects:
     - ASME SDC Robot: "http://deanattali.com/beautiful-jekyll/"
     - Active Flow Control: "http://www.markdowntutorial.com/"
     - Machine Shop: "https://pages.github.com/"
@@ -36,7 +36,7 @@ navbar-links:
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-# title-img: /img/download.png
+  title-img: /img/download.png
 
 # --- Background colour/image options --- #
 
