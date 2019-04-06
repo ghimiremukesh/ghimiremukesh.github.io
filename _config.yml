@@ -28,6 +28,7 @@ navbar-links:
     - ASME SDC Robot: 
     - Active Flow Control:
     - DIY:
+    - Machine Shop: 
    Home: "http://ghimiremukesh.github.io"
 
 # Image to show in the navigation bar - image must be a square (width = height)
