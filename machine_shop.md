@@ -6,4 +6,7 @@ published: true
 ---
 
 
-Just stuff that i did and found in the machine shops.Coming soo!!
+Just stuff that i did and found in the machine shops.
+
+
+                Coming soon!!
