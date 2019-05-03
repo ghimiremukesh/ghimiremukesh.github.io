@@ -6,7 +6,7 @@ published: true
 bigimg: 
 - "/img/arena.jpg"
 - "/img/build_1.jpg"
-- "/img/test_run.gif"
+- "/img/ezgif.com-resize.gif"
 ---
 
 This project was started on February of 2019 with an aim to compete on the ASME Student Design Competition held in Michigan State University. 
