@@ -29,18 +29,26 @@ This project was started on February of 2019 with an aim to compete on the ASME 
 
 
 <hr>
+
+<H2> Fabrication </H2>
+
+We used water jet to cut the base plate. Maginificent piece of equipment :)
+<center>
+<iframe src="https://drive.google.com/file/d/11OzpfgHiPM3Y7VUZqu_FwLyhf2O_Repa/preview" width="640" height="380" alt="Water Jet Cutting"></iframe>  
+</center>
+<hr>
 <H2> Test Run with Base and Motors </H2>
 
 <iframe src="https://drive.google.com/file/d/1iqUYfet6-LRPqYtgGhKaxMJN0KLNRLrt/preview" width="640" height="350"></iframe>
 </center>
 <hr>
-<H1><b><u> Competition </u></b></H1>
+<H1><b> Competition </b></H1>
 Round 1:
-
+<center>
 <iframe src="https://drive.google.com/file/d/1wEMLU-sTj3V__sxqbI3SSbVcH-S4KVKG/preview" width="640" height="350"></iframe>
-
+</center>
 Round 2:
-
+<center>
 <iframe src="https://drive.google.com/file/d/1ze85nO4ic3aUmqvLby5zNoilwtxG9DSk/preview" width="640" height="350"></iframe>
-
+</center>
 
