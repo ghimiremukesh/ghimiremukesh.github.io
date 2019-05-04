@@ -32,7 +32,7 @@ This project was started on February of 2019 with an aim to compete on the ASME 
 
 <H2> Fabrication </H2>
 
-We used water jet to cut the base plate. Maginificent piece of equipment :)
+We used water jet to cut the base plate. Maginificent piece of equipment :) <br>
 <center>
 <iframe src="https://drive.google.com/file/d/11OzpfgHiPM3Y7VUZqu_FwLyhf2O_Repa/preview" width="640" height="380" alt="Water Jet Cutting"></iframe>  
 </center>
@@ -43,7 +43,7 @@ We used water jet to cut the base plate. Maginificent piece of equipment :)
 </center>
 <hr>
 <H1><b> Competition </b></H1>
-Round 1:
+Round 1: One word: Chaos.<br>
 <center>
 <iframe src="https://drive.google.com/file/d/1wEMLU-sTj3V__sxqbI3SSbVcH-S4KVKG/preview" width="640" height="350"></iframe>
 </center>
