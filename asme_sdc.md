@@ -12,10 +12,10 @@ bigimg:
 ---
 
 This project was started on February of 2019 with an aim to compete on the ASME Student Design Competition held in Michigan State University. However, due to some issues, we had to forego the competition and organize our own competition among the teams that were orginally planned to attend the competition. 
+<hr>
+<H3><u>Initial Thought Processes and Prototypes</u></H3>
 
-Initial Thought Processes and Prototypes
-
-<iframe src="https://drive.google.com/file/d/1zty-3pv7xc06iCoVSIuRJkuWe5zfzhCv/preview" width="640" height="480" alt: Drawing></iframe>
+<center><iframe src="https://drive.google.com/file/d/1zty-3pv7xc06iCoVSIuRJkuWe5zfzhCv/preview" width="540" height="380" alt: Drawing></iframe></center>
 
 
 
@@ -26,7 +26,7 @@ Initial Thought Processes and Prototypes
 
 <iframe src="https://drive.google.com/file/d/1iqUYfet6-LRPqYtgGhKaxMJN0KLNRLrt/preview" width="640" height="350"></iframe>
 
-<H1><b> Videos </b></H1>
+<H1><b><u> Competition </u></b></H1>
 Round 1:
 <iframe src="https://drive.google.com/file/d/1wEMLU-sTj3V__sxqbI3SSbVcH-S4KVKG/preview" width="640" height="350"></iframe>
 
