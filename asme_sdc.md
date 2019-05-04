@@ -13,16 +13,23 @@ bigimg:
 
 This project was started on February of 2019 with an aim to compete on the ASME Student Design Competition held in Michigan State University. However, due to some issues, we had to forego the competition and organize our own competition among the teams that were orginally planned to attend the competition. 
 <hr>
-<H3><u>Initial Thought Processes and Prototypes</u></H3>
+<center><H4>Initial Thought Processes and Prototypes</H4>
 
-<center><iframe src="https://drive.google.com/file/d/1zty-3pv7xc06iCoVSIuRJkuWe5zfzhCv/preview" width="540" height="380" alt: Drawing></iframe></center>
+<iframe src="https://drive.google.com/file/d/1zty-3pv7xc06iCoVSIuRJkuWe5zfzhCv/preview" width="540" height="380" alt= "Initial Hand Drawn Model"></iframe>
+
+<iframe src="https://drive.google.com/file/d/18kVL1N2uh_y1c06XeE3AUi5sP07Bxyk7/preview" width="540" height="380" alt= "Top View"></iframe>
+
+<H4>Prototypes</H4>
+<iframe src="https://drive.google.com/file/d/18r2s4NfpW68QK8_FvYlgMvkwVREfIv2X/preview" width="640" height="480" alt= "Prototype out of cardboards"></iframe>
+
+<iframe src="https://drive.google.com/file/d/1EWiMonCY9Xpuq-ZanZT1ZTkyKF0LpIFx/preview" width="640" height="480" alt = "Prototype side view"></iframe>
+
+<iframe src="https://drive.google.com/file/d/1sDwbgBnTyGjuWFWtzv1-JPjquC016F0V/preview" width="640" height="350" alt = "Prototype working mechanism"></iframe>
 
 
 
-
-
-
-<H2><b> Test Run with Base and Motors</b> </H2>
+</center>
+<H2> Test Run with Base and Motors </H2>
 
 <iframe src="https://drive.google.com/file/d/1iqUYfet6-LRPqYtgGhKaxMJN0KLNRLrt/preview" width="640" height="350"></iframe>
 
