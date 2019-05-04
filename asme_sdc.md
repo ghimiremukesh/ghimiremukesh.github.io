@@ -24,9 +24,11 @@ Initial Thought Processes and Prototypes
 
 <H2><b> Test Run with Base and Motors</b> </H2>
 
+<iframe src="https://drive.google.com/file/d/1iqUYfet6-LRPqYtgGhKaxMJN0KLNRLrt/preview" width="640" height="350"></iframe>
+
 <H1><b> Videos </b></H1>
 Round 1:
-<iframe src="https://drive.google.com/file/d/1wEMLU-sTj3V__sxqbI3SSbVcH-S4KVKG/preview" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/1wEMLU-sTj3V__sxqbI3SSbVcH-S4KVKG/preview" width="640" height="350"></iframe>
 
 Round 2:
-<iframe src="https://drive.google.com/file/d/1ze85nO4ic3aUmqvLby5zNoilwtxG9DSk/preview" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/1ze85nO4ic3aUmqvLby5zNoilwtxG9DSk/preview" width="640" height="350"></iframe>
