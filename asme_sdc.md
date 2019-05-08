@@ -24,7 +24,7 @@ This project was started on February of 2019 with an aim to compete on the ASME 
 
 <iframe src="https://drive.google.com/file/d/1EWiMonCY9Xpuq-ZanZT1ZTkyKF0LpIFx/preview" width="640" height="380" alt = "Prototype side view"></iframe>
 
-{% include helpers/video.html url="https://drive.google.com/file/d/1sDwbgBnTyGjuWFWtzv1-JPjquC016F0V/preview" width="560" height="315" %}
+{% include video.html url="https://drive.google.com/file/d/1sDwbgBnTyGjuWFWtzv1-JPjquC016F0V/preview" width="560" height="315" %}
 
 <hr>
 
