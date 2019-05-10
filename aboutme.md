@@ -1,14 +1,11 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: 
 published: true
 ---
 
-My name is Mukesh Ghimire. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
+My name is Mukesh Ghimire. 
 
 What else do you need?
 
