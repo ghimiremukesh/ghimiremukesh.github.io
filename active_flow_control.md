@@ -2,7 +2,7 @@
 layout: page
 title: Active Flow Control
 subtitle: Actuators and wings
-img: 'pzt.gif'
+bigimg: 'pzt.gif'
 published: true
 ---
 
