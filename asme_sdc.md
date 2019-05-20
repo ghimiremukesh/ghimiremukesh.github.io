@@ -20,9 +20,9 @@ This project was started on February of 2019 with an aim to compete on the ASME 
 
 <iframe src="https://drive.google.com/file/d/18kVL1N2uh_y1c06XeE3AUi5sP07Bxyk7/preview" width="540" height="380" alt= "Top View"></iframe>
 <hr>
-
-We obviously had CAD desings made up, but we still wanted to see our initial design in action and find any faults and inefficiencies. We used laser to cut the card boards (because, why not?) and hot glued them to create the masterpiece (pictured below).
-<H4>Prototypes</H4>
+<H4>Prototypes</H4></center>
+We obviously had CAD designs made up, but we still wanted to see our initial design in action and find any faults and inefficiencies. We used laser to cut the card boards (because, why not?) and hot glued them to create the masterpiece (pictured below).
+<center>
 <iframe src="https://drive.google.com/file/d/18r2s4NfpW68QK8_FvYlgMvkwVREfIv2X/preview" width="640" height="380" alt= "Prototype out of cardboards"></iframe>
 
 <iframe src="https://drive.google.com/file/d/1EWiMonCY9Xpuq-ZanZT1ZTkyKF0LpIFx/preview" width="640" height="380" alt = "Prototype side view"></iframe>
