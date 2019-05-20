@@ -14,7 +14,7 @@ bigimg:
 This project was started on February of 2019 with an aim to compete on the ASME Student Design Competition held in Michigan State University. However, due to some issues, we had to forego the competition and organize our own competition among the teams that were orginally planned to attend the competition. 
 <hr>
 <center><H4>Initial Thought Processes and Prototypes</H4></center>
-  Like every engineering desgin process, the first step was to gather ideas based on the goal. The designs that we agreed on were a robotic arm mechanism, and the "bucket" mechanism (our final design). After looking around the web and visualizing the scenario, robotic arm was eliminated. Considering the time we had, we were not sure we could pull that off. So, we went with the bucket design. Below are the drawings Henry sketched as we thought of the constaints.
+  Like every engineering desgin process, the first step was to gather ideas based on the goal. The designs that we agreed on were a robotic arm mechanism, and the "bucket" mechanism (our final design). After looking around the web and visualizing the scenario, robotic arm was eliminated. Considering the time we had, we were not sure we could pull that off. So, we went with the bucket design. Below are the drawings Henry sketched as we thought of the constraints. 
 <center>
 <iframe src="https://drive.google.com/file/d/1zty-3pv7xc06iCoVSIuRJkuWe5zfzhCv/preview" width="540" height="380" alt= "Initial Hand Drawn Model"></iframe>
 
