@@ -26,7 +26,7 @@ These 7 steps are:
 
 Besides the usual steps, there was an additional step in our setup consisting of a saw to cut the planks into a selected length. A limit switch was placed at the end of the production line to acheive this result. 
 
-We helped to manufacture a composite of carbon fiber paired with several combinations of epoxy and resins. Two companies, each of which produced resin and epoxy collaborated with each other to carry out compressive strength tests for use in aerospace and automotive purposes. Several batches of carbon fiber planks were manufactured over the period of three days and taken to lab for testing.
+We helped to manufacture composites of carbon fiber paired with several combinations of epoxy and resins. Two companies, each of which produced resin and epoxy collaborated with each other to carry out compressive strength tests for use in aerospace and automotive purposes. Several batches of carbon fiber planks were manufactured over the period of three days and taken to lab for testing.
 
 ![A sample of the composite](/img/carbon.jpg)
 
