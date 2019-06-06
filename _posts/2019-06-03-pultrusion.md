@@ -28,4 +28,7 @@ Besides the usual steps, there was an additional step in our setup consisting of
 
 We helped to manufacture a composite of carbon fiber paired with several combinations of epoxy and resins. Two companies, each of which produced resin and epoxy collaborated with each other to carry out compressive strength tests for use in aerospace and automotive purposes. Several batches of carbon fiber planks were manufactured over the period of three days and taken to lab for testing.
 
+![A sample of the composite](/img/carbon.jpg)
+<center>Fig: A sample of the composite plank. </center>
+
 I had an amazing experience working in the lab and being able to indepedently learn the process of pultrusion. Dr. Lackey is a great person to work with; she provides good guidance and instructions at the same time gives freedom to make own decisions in the steps you are responsible for. She plans to carry out similar projects in coming weeks. I cannot wait to get back in the lab again. 
