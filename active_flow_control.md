@@ -6,6 +6,6 @@ bigimg: /img/pzt.gif
 published: true
 ---
 
-[!WindTunnel}(/img/windtunnel.jpg)
+[!WindTunnel](/img/windtunnel.jpg)
 
 
