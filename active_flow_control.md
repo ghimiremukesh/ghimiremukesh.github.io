@@ -12,3 +12,4 @@ The primary objective of this project is to provide energy to the flow over an a
 
 <center> Fig. Wind tunnel to carry out tests. </center>
 
+Updates will be posted as we progress through with the experiments. 
