@@ -5,5 +5,5 @@ subtitle:
 published: true
 ---
 <center>
-<iframe src="https://drive.google.com/file/d/1FcXX0585dxGtaS6RPLHgcUzrrXMd2cG4/preview" width="1024" height="768"></iframe>
+<object data="{{ Ghimire_Mukesh_Resume.pdf }}" width="1000" height="1000" type='application/pdf'/>
 </center>
