@@ -5,5 +5,5 @@ subtitle:
 published: true
 ---
 <center>
-<object data="{{ Ghimire_Mukesh_Resume.pdf }}" width="1000" height="1000" type='application/pdf'/>
+[get the PDF]({{ https://ghimiremukesh.github.io }}/Ghimire_Mukesh_Resume.pdf)
 </center>
