@@ -6,9 +6,7 @@ date: '2019-07-12'
 image: /img/vt.jpg
 ---
 Discovered by a french physicist George J. Ranque in 1931 and studied by a german physicist Rudolf Hilsch, is a device that takes in compressed gas and separates into hot and cold streams. This phenonmenon of temperature separation is known as Ranque-Hilsch effect and the device is named as Ranque-Hilsch Vortex Tube (RHVT). The device has been of great interest to physicists and engineers. It is widely used in manufacturing industry for cleaning and cooling purposes. Figure below shows a basic counter flow vortex tube. 
-<center>
 ![counter-flow vortex tube](https://ghimiremukesh.github.io/img/vortex_tube.png)
-</center>
 <center>Fig: Counter flow vortex tube [1]</center>
 <br>
 A vortex tube consists of an inlet nozzle, a cold outlet orifice and hot outlet in conjuction with a control valve. Using the control valve at the hot end, the temperature difference can be changed. Furthermore, the extent of temperature variation depends on the pressure of the inlet gas. The inlet nozzle is placed such a way that the gas enters tangentially into the vortex tube. Due to such inlet condition the fluid gets the characteristic "vortex" inside the tube. Several experiments have been done on the device to understand the reason behind such temperature separation leading to various explannations. However, a common consensus has not been attained. 
