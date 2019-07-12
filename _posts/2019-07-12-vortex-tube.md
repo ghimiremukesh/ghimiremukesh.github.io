@@ -6,9 +6,9 @@ date: '2019-07-12'
 image: /img/vt.jpg
 ---
 Discovered by a french physicist George J. Ranque in 1931 and studied by a german physicist Rudolf Hilsch, is a device that takes in compressed gas and separates into hot and cold streams. This phenonmenon of temperature separation is known as Ranque-Hilsch effect and the device is named as Ranque-Hilsch Vortex Tube (RHVT). The device has been of great interest to physicists and engineers. It is widely used in manufacturing industry for cleaning and cooling purposes. Figure below shows a basic counter flow vortex tube. 
-
+<center>
 ![counter-flow vortex tube](https://ghimiremukesh.github.io/img/vortex_tube.png)
-
+</center>
 <center>Fig: Counter flow vortex tube [1]</center>
 <br>
 
