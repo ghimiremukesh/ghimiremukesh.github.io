@@ -12,4 +12,8 @@ The primary objective of this project is to provide energy to the flow over an a
 
 <center> Fig. Wind tunnel to carry out tests. </center>
 
-Updates will be posted as we progress through with the experiments. 
+The oval loop structure that will house PZT actuator is shown in the figure below. This part will be placed on the surface of the airfoil. When a voltage is applied on the PZT it contracts and expands allowing the oval loop to translate which ultimately provides energy to the flow on the surface.  
+
+![OvalLoop](/img/oval_loop.jpg)
+
+<center> Fig. Oval Loop Structure.
