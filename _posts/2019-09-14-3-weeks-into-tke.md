@@ -17,4 +17,4 @@ Now the thing that scared me was the fact that everyone should be constantly awa
 
 And here's the video of the laser in action. This thing can travel upto 600 ft/min? I'm not really sure on that as of now, please don't quote me on that. It is really really fast though. 
 
-<a href='https://photos.google.com/share/AF1QipMzJyl73o74pAyblnITWkDrCkRrEo4w4bG2XHl98e1EpOh3nSVh4hl-dXah-W_U2w?key=WGdWT1I5Z1h0TElhdlMtVEI0bHZ6TnAzczlzN2l3&source=ctrlq.org'><img src='https://lh3.googleusercontent.com/ZB8G3YiuUJaCTcKnH2TLn4YM2GnYCrECCBmciubvRKQUBXZfGy0kIw0SQl7DFCrvChhbqh7byQ7X80oQkF6Z_AdC5f4Ah3AuYlBt0LYzH3aYAlJxcOvROwc7_PIelfdOAlSbNq9BUMo=w2400' /></a>
+<a href='https://photos.google.com/share/AF1QipMzJyl73o74pAyblnITWkDrCkRrEo4w4bG2XHl98e1EpOh3nSVh4hl-dXah-W_U2w?key=WGdWT1I5Z1h0TElhdlMtVEI0bHZ6TnAzczlzN2l3&source=ctrlq.org'></a>
